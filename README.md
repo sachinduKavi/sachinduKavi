@@ -32,13 +32,5 @@ Software Engineer | Mobile & Backend Developer | Full-Stack Engineer
 </p>
 
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sachinduKavi&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sachinduKavi&theme=radical" />
-</div>
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinduKavi&layout=compact&theme=radical" />
-</div>
+## 🐍 Snake Eating My Contributions
+![snake gif](https://github.com/sachinduKavi/sachinduKavi/blob/output/github-contribution-grid-snake.svg)
