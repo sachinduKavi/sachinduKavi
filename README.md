@@ -32,5 +32,24 @@ Software Engineer | Mobile & Backend Developer | Full-Stack Engineer
 </p>
 
 
-## 🐍 Snake Eating My Contributions
-![snake gif](https://github.com/sachinduKavi/sachinduKavi/blob/output/github-contribution-grid-snake.svg)
+## 🛠️ Tech Stack
+
+###   Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,dart,python,java,nodejs" />
+</p>
+
+### 📱 Mobile & Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,androidstudio,html,css,tailwind" />
+</p>
+
+### 🚀 Backend & Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nestjs,express,dotnet,mysql,mongodb,postgresql,redis" />
+</p>
+
+### ⚙️ DevOps & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,aws,azure,gcp" />
+</p>
