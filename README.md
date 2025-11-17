@@ -35,10 +35,10 @@ Software Engineer | Mobile & Backend Developer | Full-Stack Engineer
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sajan-Hirusha&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sajan-Hirusha&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sachinduKavi&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sachinduKavi&theme=radical" />
 </div>
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sajan-Hirusha&layout=compact&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinduKavi&layout=compact&theme=radical" />
 </div>
