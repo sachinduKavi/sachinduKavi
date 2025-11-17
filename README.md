@@ -7,3 +7,26 @@ Software Engineer | Mobile & Backend Developer | Full-Stack Engineer
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sachinduKavi&theme=react-dark&hide_border=true&area=true" alt="Sachindu Kavishka's GitHub Contribution Graph" />
 </p>
+
+## 🛠️ My Favorite Tools
+
+### 👨‍💻 Programming Languages
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,cpp" />
+  </a>
+</p>
+
+### 🧰 Frameworks and Libraries
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,django,flask" />
+  </a>
+</p>
+
+### 🗄️ Databases and Cloud
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,aws,azure,gcp" />
+  </a>
+</p>
