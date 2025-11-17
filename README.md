@@ -30,3 +30,15 @@ Software Engineer | Mobile & Backend Developer | Full-Stack Engineer
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,aws,azure,gcp" />
   </a>
 </p>
+
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sajan-Hirusha&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sajan-Hirusha&theme=radical" />
+</div>
+
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sajan-Hirusha&layout=compact&theme=radical" />
+</div>
