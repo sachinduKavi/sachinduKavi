@@ -53,7 +53,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sachinduKavi&theme=tokyo-night&hide_border=true" />
+  <img src="https://ghchart.rshah.org/38BDF8/sachinduKavi" alt="Sachindu's GitHub contribution chart" />
 </p>
 
 ---
